@@ -1,0 +1,75 @@
+/* Ensure html and body stretch to full height */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex; /* Enables flexbox on the body */
+  justify-content: center; /* Horizontally center content */
+  align-items: center; /* Vertically center content */
+  background: linear-gradient(to bottom, #4facfe, #00f2fe); /* Vibrant gradient */
+  font-family: 'Arial', sans-serif;
+}
+
+/* Center #root */
+#root {
+  width: 100%;
+  max-width: 1280px;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to bottom, #ffffff, #f0f4f8);
+  border-radius: 15px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Input group focus effect */
+.input-group:focus-within {
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+  border: 2px solid rgba(0, 123, 255, 0.8);
+  border-radius: 5px;
+}
+
+/* Ensure the input and button look unified */
+.input-group .form-control {
+  border-right: 0;
+}
+
+.input-group .btn {
+  border-left: 0;
+}
+
+/* Style for headers */
+h1 {
+  color: #34495e;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  color: #2c3e50;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Table Styling */
+.table {
+  margin-top: 1rem;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.table th,
+.table td {
+  vertical-align: middle;
+}
+
+.table th {
+  background-color: #f7f9fc;
+  color: #34495e;
+}
+
+.table tr:hover {
+  background-color: #f0f4f8;
+}
