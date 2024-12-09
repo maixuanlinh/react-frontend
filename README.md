@@ -10,7 +10,7 @@ The deployed application is accessible via Render and allows users to interact w
 
 - **Deployed Frontend**: [https://react-frontend-nnaj.onrender.com/](https://react-frontend-nnaj.onrender.com/)  
 - **GitHub Repository**: [https://github.com/maixuanlinh/react-frontend](https://github.com/maixuanlinh/react-frontend)  
-- **Video Presentation**: https://drive.google.com/file/d/1x1zNH6hiaeaUTrQQhOloHfOffcUrS0hU/view?usp=drive_link
+- **Video Presentation**: [https://drive.google.com/file/d/1x1zNH6hiaeaUTrQQhOloHfOffcUrS0hU/view?usp=drive_link](https://drive.google.com/file/d/1AwBpIOG5Hq9B6P-rYBEEqWeImTSw9cpg/view?usp=drive_link)
 
 ---
 
