@@ -40,7 +40,6 @@ The following technologies and special features were used in this project:
 The React frontend is designed to provide a clean, intuitive, and responsive interface for interacting with the REST API.
 
 ### **Design and Layout:**
-- A centered layout with a gradient background for aesthetics.
 - A table for listing all items, showing ID, name, description, and actions (update, delete).
 - A search bar styled with a FontAwesome search icon and input field.
 - Modals for adding and updating items, with pre-filled fields in the update modal for convenience.
