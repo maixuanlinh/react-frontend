@@ -6,6 +6,15 @@ The deployed application is accessible via Render and allows users to interact w
 
 ---
 
+## Deployment Links
+
+- **Deployed Frontend**: [https://react-frontend-nnaj.onrender.com/](https://react-frontend-nnaj.onrender.com/)  
+- **GitHub Repository**: [https://github.com/maixuanlinh/react-frontend](https://github.com/maixuanlinh/react-frontend)  
+- **Video Presentation**: [https://drive.google.com/file/d/1x1zNH6hiaeaUTrQQhOloHfOffcUrS0hU/view?usp=drive_link](https://drive.google.com/file/d/1x1zNH6hiaeaUTrQQhOloHfOffcUrS0hU/view?usp=drive_link)  
+
+---
+
+
 ## Table of Contents
 
 - [Technologies Used](#technologies-used)
@@ -42,14 +51,6 @@ The React frontend is designed to provide a clean, intuitive, and responsive int
 3. **Add Item Modal**: Opens a modal to add new items with name and description fields.
 4. **Update Item Modal**: Opens a modal with pre-filled fields to update existing items.
 5. **Backend Integration**: CRUD operations (GET, POST, PUT, DELETE) are performed through API calls to the backend.
-
----
-
-## Deployment Links
-
-- **Deployed Frontend**: [https://react-frontend-nnaj.onrender.com/](https://react-frontend-nnaj.onrender.com/)  
-- **GitHub Repository**: [https://github.com/maixuanlinh/react-frontend](https://github.com/maixuanlinh/react-frontend)  
-- **Video Presentation**: [https://drive.google.com/file/d/1x1zNH6hiaeaUTrQQhOloHfOffcUrS0hU/view?usp=drive_link](https://drive.google.com/file/d/1x1zNH6hiaeaUTrQQhOloHfOffcUrS0hU/view?usp=drive_link)  
 
 ---
 
