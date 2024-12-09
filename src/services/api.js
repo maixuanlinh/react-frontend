@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE_URL = 'http://localhost:5000/api';
+const BASE_URL = 'https://restapi-0v5t.onrender.com/api';
 
 export const getAllItems = async () => {
   const response = await axios.get(`${BASE_URL}/getall`);
